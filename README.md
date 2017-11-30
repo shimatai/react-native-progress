@@ -6,7 +6,7 @@ Progress indicators and spinners for React Native using ReactART.
 
 ## Installation
 
-`$ npm install react-native-progress --save`
+`$ npm install --save git+https://github.com/shimatai/react-native-progress.git`
 
 ### ReactART based components
 

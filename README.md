@@ -4,7 +4,7 @@ Progress indicators and spinners for React Native using ReactART.
 
 Forked from version 3.4.0 of https://github.com/oblador/react-native-progress
 
-This fork has the fix patch for React Native 0.45.0 for this issue
+This fork has the fix patch for React Native 0.45.0 for this issue (no borderRadius when progress if filled)
 ![issue-sample](https://cloud.githubusercontent.com/assets/18344021/24652152/56cc9862-194e-11e7-856c-e17d06cee4b2.png)
 
 ![progress-demo](https://cloud.githubusercontent.com/assets/378279/11212043/64fb1420-8d01-11e5-9ec0-5e175a837c62.gif)
